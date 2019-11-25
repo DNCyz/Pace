@@ -1,0 +1,24 @@
+﻿2019-09-05 17:08:59,466  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:08:59,953  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:00,198  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:36,443  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:36,856  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:37,083  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:43,588  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:43,964  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:09:44,158  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:10:13,685  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:10:14,107  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88
+2019-09-05 17:10:14,315  Engine Run [内]Err:System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 DNKParkingBillingRulesAPI.Engine.Run(String[] scriptArray) 位置 D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\Class2.cs:行号 88

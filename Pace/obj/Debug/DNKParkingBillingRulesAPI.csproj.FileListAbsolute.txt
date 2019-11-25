@@ -1,0 +1,5 @@
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\bin\Debug\DNKParkingBillingRulesAPI.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\bin\Debug\DNKParkingBillingRulesAPI.pdb
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\obj\Debug\DNKParkingBillingRulesAPI.csprojResolveAssemblyReference.cache
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\obj\Debug\DNKParkingBillingRulesAPI.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\obj\Debug\DNKParkingBillingRulesAPI.pdb

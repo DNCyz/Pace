@@ -1,0 +1,8 @@
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\bin\Debug\Pace.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\bin\Debug\Pace.pdb
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\obj\Debug\Pace.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\DNKParkingBillingRulesAPI\obj\Debug\Pace.pdb
+D:\TmpFile\Cyz\接口API资料\计费规则\Pace\bin\Debug\Pace.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\Pace\bin\Debug\Pace.pdb
+D:\TmpFile\Cyz\接口API资料\计费规则\Pace\obj\Debug\Pace.dll
+D:\TmpFile\Cyz\接口API资料\计费规则\Pace\obj\Debug\Pace.pdb

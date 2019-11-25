@@ -1,0 +1,21 @@
+
+
+ 1 fe Duration <InDt> <OutDt> 0.5 0              //出入场时长在半小时内为免费
+                2 gt 0                                          //获取费用为0，意味着不用继续处理下去了
+                3 df TimeRange 08:00 18:00 <InDt> <OutDt>       //在场时间在08:00到18:00之间
+                4 fe PerHour 4.00 [on]                          //依据上行得到的时长，按每小时收费4元算费
+                5 df TimeRange 18:00 08:00 <InDt> <OutDt>       //在场时间在18:00到次日08:00之间
+                6 fe PerHour 5.00 [on]                          //依据上行得到的时长，按每小时收费5元算费
+                7 gt                                            //获取费用
+                8 fe Duration <InDt> <OutDt> 24 [on] 30.00      //依据上行获取的费用,出入场时长在24小时以上，最高收费为30元 注:外部输入参数在前,配置参数在后，同类型参数放在一起。
+                9 gt          
+
+
+
+◎Duration,<InDt>,<OutDt>,0.5
+QuitJudge,[on],0
+TimeRange,08:00,18:00,<InDt>,<OutDt>
+◎PerHour,4.00,[on]
+TimeRange,18:00,08:00,<InDt>,<OutDt>
+◎PerHour,5.00,[on]
+◎Duration,<InDt>,<OutDt>,24,[on],30.00 
